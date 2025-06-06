@@ -1,6 +1,6 @@
 # 🎬 Netflix 90s Movies EDA
 
-This project explores Netflix's movie catalog, focusing on films released during the 1990s. It includes exploratory data analysis (EDA), trend profiling, and preparation for potential modeling or dashboard visualization.
+This project explores a simulated Netflix movie catalog, focusing on films released during the 1990s. It includes exploratory data analysis (EDA), trend profiling, and preparation for potential modeling or dashboard visualization.
 
 ## 📁 Project Structure
 
